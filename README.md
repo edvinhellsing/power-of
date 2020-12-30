@@ -31,7 +31,7 @@ The class PowerOf should have the following fields:
 
   - this class must not contain a main method
 
-  - add appropriate get and set methods for this class' 􏰃elds
+  - add appropriate get and set methods for this class' fields
 
 - By default in this exercise: The text file must be found using the file name only, e.g. "myfile.txt" as an argument to the constructor.
 
